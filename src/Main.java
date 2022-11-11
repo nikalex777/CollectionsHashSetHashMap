@@ -43,5 +43,6 @@ public class Main {
                 System.out.println("Минимум букв в тексте - " + stringIntegerEntry.getKey() + " = " + minValue);
             }
         }
+        System.out.println();
     }
 }
